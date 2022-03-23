@@ -1,0 +1,8 @@
+A_Index;AnzahlZimmer;Ausbaustufe;Baeder;BaederUG;Baujahr;Bebauungsdichte;Besonderheiten;Dachtyp;EG_qm;Fassadenqual;Fassadenzustand;Garagen;Gesamteindruck;Grundstueck_qm;Kamine;KellerQual;Keller_qm;Kellerhoehe;Lage;ToilettenEG;ToilettenUG;Typ;Umgebaut;Verkaufsjahr;Verkaufsmonat;Wohnflaeche_qm;Z_Verkaufspreis
+0;1;1 Ebene;1;0.0;1951;Niedrig;;Satteldach;80.0;Durchschnitt;Durchschnitt;2.0;1.0;1250.0;0;2;80.0;Durchschnitt;NeuStuttgart_Nord;0;0.0;Freistehend;1961;2019.0;3;80.0;93949.0
+1;3;2 Ebenen;1;0.0;1953;Niedrig;X;Satteldach;82.0;Durchschnitt;Durchschnitt;1.0;3.0;965.0;2;1;67.0;Durchschnitt;Vaihingen;1;0.0;Freistehend;2006;2016.0;6;152.0;148313.0
+2;4;1 Ebene;2;0.0;1978;Niedrig;;Satteldach;151.0;Durchschnitt;Durchschnitt;2.0;2.0;2502.0;0;2;151.0;Durchschnitt;NeuStuttgart_Ost;0;0.0;Doppelhaus;1978;2016.0;6;151.0;144769.0
+3;2;1 Ebene;1;1.0;1964;Niedrig;;Flachdach;139.0;Durchschnitt;Durchschnitt;2.0;3.0;1227.0;1;5;139.0;Durchschnitt;Andere;0;0.0;Freistehend;1964;2019.0;2;139.0;170248.0
+4;3;1,5 Ebenen;1;0.0;1961;Niedrig;;Satteldach;84.0;Durchschnitt;Durchschnitt;1.0;3.0;1220.0;0;5;84.0;Durchschnitt;Vaihingen;1;0.0;Freistehend;1961;2014.0;9;141.0;138060.0
+5;3;1 Ebene;2;0.0;2019;Niedrig;;;157.0;Gut;Durchschnitt;3.0;3.0;1058.0;0;2;157.0;Gut;Bad Cannstatt;0;0.0;Freistehend;2019;2021.0;2;157.0;302200.0
+6;3;2 Ebenen;2;1.0;2014;Niedrig;;Satteldach;77.0;Gut;Durchschnitt;2.0;3.0;1030.0;0;4;77.0;Gut;Plieningen;1;0.0;Freistehend;2014;2018.0;7;157.0;205857.0
